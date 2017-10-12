@@ -1,7 +1,0 @@
-Language : java
-
-deploy :
-  provider : heroku
-  api_key :
-    secure : "c5779b26-808b-4bce-a1e2-d65d8d596428"
-  app : test-spring-urbain
