@@ -1,4 +1,4 @@
-package be.heh.test_sring;
+package be.heh.test_spring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
